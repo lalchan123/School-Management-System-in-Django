@@ -1,7 +1,7 @@
 
 # School Management System
 
-**Project Summary-** The School Management System Projec is developed
+**Project Summary-** The School Management System Project is developed
 using Python Django.This will basically make school management easier.  <br />
 **Features-** admin can approve, delete teacher and student etc.teacher
 can take attendance etc.Student can view notices and attendance list etc. <br />
