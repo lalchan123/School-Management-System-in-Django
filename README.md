@@ -1,7 +1,7 @@
 
 # School Management System
 
-## Project Summary- 
+** Project Summary- **
 The School Management System Projec is developed
 using Python Django.This will basically make school management easier.
 ## Features- 
