@@ -11,6 +11,14 @@ can take attendance etc.Student can view notices and attendance list etc. <br />
 **Video Link:** 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2)
 
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 16px">
