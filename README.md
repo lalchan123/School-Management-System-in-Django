@@ -5,8 +5,12 @@
 using Python Django.This will basically make school management easier.  <br />
 **Features-** admin can approve, delete teacher and student etc.teacher
 can take attendance etc.Student can view notices and attendance list etc. <br />
-**Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP,DJANGO
-**Tools-** Visual Studio Code, SQLite 
+**Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP,DJANGO <br />
+**Tools-** Visual Studio Code, SQLite <br />
+
+**Video Link:** 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; gap: 16px">
