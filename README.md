@@ -8,21 +8,8 @@ can take attendance etc.Student can view notices and attendance list etc. <br />
 **Language-** HTML,CSS,JAVASCRIPT,BOOTSTRAP,DJANGO <br />
 **Tools-** Visual Studio Code, SQLite <br />
 
-**Video Link:** 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![School Management Video](https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/sp2.JPG?alt=media&token=39daf760-0f6d-4ec5-a1f1-77f9f141e0e0)](https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2)
 
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 16px">
-<img width="100%" src="https://firebasestorage.googleapis.com/v0/b/pushnotification-c88ba.appspot.com/o/sp1.JPG?alt=media&token=ac5944ff-10e6-4db8-aa58-ab3bcf0c8cfd"/>
-  </div>
-</div>
