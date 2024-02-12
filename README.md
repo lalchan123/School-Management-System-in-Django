@@ -9,7 +9,7 @@ can take attendance etc.Student can view notices and attendance list etc. <br />
 **Tools-** Visual Studio Code, SQLite <br />
 
 **Video Link:** 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=d-QxlLwMSuw&list=PLPNCS-Mn12MekuAFScnLXlvM_wXKlVGtl&index=2)
 
 
 <div align="center">
